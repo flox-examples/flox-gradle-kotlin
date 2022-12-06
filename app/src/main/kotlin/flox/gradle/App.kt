@@ -6,7 +6,7 @@ package flox.gradle
 class App {
     val greeting: String
         get() {
-            return "Hello Kotlin World from flox!"
+            return "Hello Kotlin World from flox!!"
         }
 }
 
